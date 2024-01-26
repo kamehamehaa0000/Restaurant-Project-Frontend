@@ -4,7 +4,7 @@ const LandingPage = () => {
   return (
     <>
       <div id="home" className="hero-container">
-        <img className="sushi-img" src="/public/shushi.png" alt="" />
+        <img className="sushi-img" src="/shushi.png" alt="" />
         <div className="hero-heading">
           <h1>
             YOUR
@@ -27,9 +27,9 @@ const LandingPage = () => {
           </a>
         </div>
       </div>
-      <div class="marquee">
-        <div class="track">
-          <div class="content">
+      <div className="marquee">
+        <div className="track">
+          <div className="content">
             <span> MADE WITH LOVE 🔥 </span>
             <span> MADE WITH LOVE 🔥 </span>
             <span> MADE WITH LOVE 🔥 </span>

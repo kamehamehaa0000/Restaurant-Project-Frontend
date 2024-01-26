@@ -16,10 +16,11 @@
   font-weight: 600;
   margin: 20px 0;
 }
+
 .hero-heading button {
   padding: 1rem;
   font-weight: 600;
-
+  width: auto;
   font-size: 1.5rem;
   color: white;
   border: 1px solid white;
